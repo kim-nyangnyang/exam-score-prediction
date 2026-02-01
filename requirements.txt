@@ -1,0 +1,18 @@
+# 데이터 처리 및 통계
+pandas
+numpy
+scipy
+statsmodels
+scikit-posthocs
+
+# 시각화
+plotly
+matplotlib
+seaborn
+
+# 머신러닝 모델 및 전처리
+scikit-learn
+lightgbm
+xgboost
+catboost
+from catboost import CatBoostRegressor
