@@ -1,6 +1,3 @@
-# exam-score-prediction
-Kaggle exam score prediction project
-
 # 📖 효율적 성적 향상을 위한 전략 수립: 머신러닝&통계분석
 
 
